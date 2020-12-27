@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/witd2ey281q0cxo8?svg=true)](https://ci.appveyor.com/project/Tatiana0325/ra-redux-hw1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
